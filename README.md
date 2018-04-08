@@ -1,5 +1,10 @@
 # Rumbl
 
+## Tool Versions
+  * Erlang 9.1
+  * Elixir 1.5.2
+  * Phoenix v1.3.0
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
